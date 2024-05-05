@@ -1,4 +1,4 @@
-#Guess the Capital Web App
+# Guess the Capital Web App
 Welcome to Guess the Capital – a fun JavaScript web application that tests your knowledge of world capitals! 🌍✨
 
 Overview
