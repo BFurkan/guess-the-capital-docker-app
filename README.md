@@ -18,4 +18,4 @@ GitHub Pages:
 
 Access the live web app on GitHub Pages: Guess the Capital on GitHub Pages.
 Getting Started
-Clone the Repository: git clone https://github.com/Bfurkan/guess-the-capital-docker-app
+Clone the Repository: git clone https://bfurkan.github.io/guess-the-capital-docker-app/
