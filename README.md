@@ -13,18 +13,9 @@ GitHub Actions:
 
 Continuous integration setup with GitHub Actions.
 Automatic build and deployment every time a commit is made to the repository.
-Docker Project:
 
-Dockerized for seamless deployment in any environment.
-Find it on Docker Hub: Guess the Capital on Docker Hub.
 GitHub Pages:
 
 Access the live web app on GitHub Pages: Guess the Capital on GitHub Pages.
 Getting Started
-Clone the Repository: git clone https://github.com/cagri32/guess-the-capital-docker-app
-
-Explore Dockerized Version:
-
-Pull the Docker image: docker pull ahmetcozer/guess-the-capital:latest
-Run the Docker image: docker run -p 8080:80 <docker-image-name>
-Access the app at http://localhost:8080
+Clone the Repository: git clone https://github.com/Bfurkan/guess-the-capital-docker-app
